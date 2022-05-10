@@ -2,6 +2,12 @@
 {
 -webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-ms-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s
 }
+section h2.section-heading
+
+{margin-top:0;margin-bottom:15px;font-size:60px; text-align:center;}
+.subpageHeading
+
+{padding-top:50px;padding-bottom:30px}
 
 .animated.hinge
 {

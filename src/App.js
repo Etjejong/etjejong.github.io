@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Contact from "./components/contact"
+import Books from "./components/designs"
 
 class App extends Component {
   constructor(props){
@@ -191,6 +192,7 @@ class App extends Component {
                   <br/>
                   <nav className="cover-navigation navigation--social">
                     <ul className="navigation">
+                      {books}
                       {contact}
                     </ul>
                   </nav>

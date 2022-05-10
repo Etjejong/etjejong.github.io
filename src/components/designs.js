@@ -8,6 +8,7 @@ class Membership extends Component {
     this.state = {
     }
   }
+  
 
   sectionTitle(){
     return(
@@ -20,6 +21,15 @@ class Membership extends Component {
   }
 
   drawLectures(){
+
+    var design2 = <div className="singleLectureContainer">
+      <div className="singleWebsiteCard">
+        <div className="projectText">
+          <p><h5>팀 균형감각 창립멤버</h5></p>
+        </div>
+      </div>
+    </div>
+
     var design1 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
          <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/tesol.png" alt="projectimage"/>
@@ -43,6 +53,7 @@ class Membership extends Component {
 
     return (
       <div className="websitesContainer">
+        {design2}
         {design3}
         {design1}
       </div>
