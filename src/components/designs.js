@@ -32,7 +32,7 @@ class Membership extends Component {
 
     var design1 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-         <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/tesol.png" alt="projectimage"/>
+         <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/etjejong/etjejong.github.io/src/images/tesol.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>TESOL</h5></p>
             <p className="bookDescription">
