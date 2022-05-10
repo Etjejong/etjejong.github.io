@@ -24,6 +24,7 @@ class Membership extends Component {
 
     var design2 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
+      <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/etjejong/etjejong.github.io/src/images/ghgg.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>팀 균형감각 창립멤버</h5></p>
         </div>
@@ -32,7 +33,7 @@ class Membership extends Component {
 
     var design1 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-         <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/etjejong/etjejong.github.io/src/images/tesol.png" alt="projectimage"/>
+        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/etjejong/etjejong.github.io/src/images/tesol.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>TESOL</h5></p>
             <p className="bookDescription">
