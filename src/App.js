@@ -121,7 +121,7 @@ class App extends Component {
           }.bind(this)
         }
       >
-        <i className="fas fa-book"></i>&nbsp;Books
+        <i className="fas fa-book"></i>&nbsp;Experiences
       </a>
     </li>
 
